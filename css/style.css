@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #10659b;
+}
+
+#products {
+  background-color: #10659b;
+}
+#contact h2,label{
+  color: white;
+}
+#footer a{
+  color: black;
+}
+section {
+  padding-top: 5rem;
+}
+
+.map {
+  width: 40%;
+  margin: auto;
+  margin-top: 3%;
+}
